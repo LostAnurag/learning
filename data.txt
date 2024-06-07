@@ -1,0 +1,3 @@
+componenet name - User
+username, id, class, school
+fetch crow
